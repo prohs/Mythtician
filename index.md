@@ -1,12 +1,12 @@
 <!doctype html>
-<html>
 <head>
 <meta charset="utf-8">
-<link rel="stylesheet" href="mystyle.css">
+<link rel="stylesheet" href="style.css">
 
 </head>
 <script type="text/javascript" src="jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="alphabet.js"></script>
+	<script type="text/javascript" src="clock.js"></script>
 <body>
 	<div id="MyClockDisplay" class="clock" onload="showTime()"></div>
 <div style="width: 100%; height: 400px; overflow: hidden;">	
