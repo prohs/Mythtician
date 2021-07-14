@@ -1,3 +1,7 @@
+// disable theme, plugin editor and plugin, core updates
+define('DISALLOW_FILE_EDIT',true); // theme, plugin editor
+define('DISALLOW_FILE_MODS',true); // core, plugin
+
 var myName = "Mythtician.com";
 
 var red = [0, 100, 63];
