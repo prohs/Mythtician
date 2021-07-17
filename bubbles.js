@@ -9,6 +9,8 @@ function Vector(x, y, z) {
     };
 }
  
+
+
 function PointCollection() {
     this.mousePos = new Vector(0, 0);
     this.pointCollectionX = 0;
